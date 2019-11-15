@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "674999736845",
+    "firebase_url": "https://squareball-demo.firebaseio.com",
+    "project_id": "squareball-demo",
+    "storage_bucket": "squareball-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674999736845:android:57aae198a0ef6f22081344",
+        "android_client_info": {
+          "package_name": "com.example.squareball_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674999736845-qsoj7j19lolcaqsg1migda9964m2sncd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXoURY9ixmIDGzRKPyVMYYCZI_ETA5LzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674999736845-qsoj7j19lolcaqsg1migda9964m2sncd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
